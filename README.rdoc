@@ -1,0 +1,7 @@
+1) Create new Rails Application and call it blog
+
+2) Ensure you can run the server and preview the Application
+
+3) Pages Controller
+
+4) Create a homepage, about
